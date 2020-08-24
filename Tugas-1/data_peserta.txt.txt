@@ -1,0 +1,6 @@
+Data Peserta Sanbercode Bootcamp ReactJS
+1. Nama: Bari Annafi Halim
+2. Email: bannafi@gmail.com
+3. Sistem Operasi yang digunakan: Windows
+4. Akun Gitlab: github.com/bannafi/
+5. Akun Telegram: @bannafi
